@@ -1,0 +1,2 @@
+camera,sensore2,umitià,2023-06-02
+giardino,sensore1,vento,2023-07-01
