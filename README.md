@@ -1,3 +1,5 @@
 # PAO1
-snapshot del 4 luglio alle 19.11
-prima di cambiare gerarchia per aggiungere campi dati ai sensori per la genereazione di dati polimorfa
+snapshot del 8 luglio
+appena prima di modificare on_modifica_clicked per modificare il tipo del grafico correttamente
+genera_grafico produce solo un qdebug "button clicked"
+chartBox però viene costruita correttamente
