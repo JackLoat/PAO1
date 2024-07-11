@@ -1,9 +1,0 @@
-<RCC>
-    <qresource prefix="/resources">
-        <file>resources/asset/icon_sensor.jpeg</file>
-        <file>resources/asset/icona_sensore_fumo</file>
-        <file>resources/asset/icona_sensore_qualità_aria</file>
-        <file>resources/asset/icona_sensore_temperatura</file>
-        <file>resources/asset/icona_sensore_vento</file>
-    </qresource>
-</RCC>
