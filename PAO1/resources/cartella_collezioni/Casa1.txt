@@ -1,0 +1,4 @@
+giardino,sensore1,Vento,2023-06-24
+cantina,allarme,Fumo,2024-07-04
+bagno,termometro,Temperatura,2024-07-04
+terrazza,stazione_meteo,Aria,2024-07-10
