@@ -1,3 +1,3 @@
 # PAO1
-10 luglio
+11 luglio
 versione praticamente definitiva dell'applicazione
