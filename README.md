@@ -1,4 +1,4 @@
 # PAO1
-11 luglio;
-versione praticamente definitiva dell'applicazione.
-E' molto approssimativa ma è quello che sono riuscito a fare in 10 giorni senza aver mai usato qt
+13 luglio
+versione potenzialmente definitiva del progetto
+prima di implementare il nuovo metodo di calcolo della direzione media del vento e nuove funzionalità di gestione delle stanze
