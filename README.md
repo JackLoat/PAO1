@@ -1,4 +1,4 @@
 # PAO1
 13 luglio
 versione potenzialmente definitiva del progetto
-prima di implementare il nuovo metodo di calcolo della direzione media del vento e nuove funzionalità di gestione delle stanze
+prima di modificare formato file da txt a csv e implementare nuove funzionalità di gestione delle stanze
