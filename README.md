@@ -6,10 +6,13 @@ prima versione (in teoria) senza separazione tra modello logico e GUI
 - deprecata sensorToWI : spostata la gestione direttamente alla GUI
 - sono ancora presenti qDebug, commenti e da riordinare il codice
 
+ramo2:
+- divise gerarchie in singole coppie h/cpp
+- parziale pulizia codice e inclusioni ma non completa
+
 non aggiunti
 - visitor 2 per generare dati
 - verifica se è necessario usare dynamic cast in on_crea_grafico_clicked
 - observer per modificare min/max/soglia sensore per modificare chartbox
-- separare implementazioni di ogni singola classe delle gerarchie in coppie h/cpp
 - aggiorna relazione e modifica grafico
 - pulizia codice e inclusioni
