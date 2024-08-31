@@ -10,6 +10,7 @@ versione definitiva per la seconda consegna
 - stili grafici
 - aggiorna relazione e modifica grafico
 - pulizia codice e inclusioni
+
 non aggiunti: funzionalità aggiuntive
 - gestione stanze
 - esportazione dati
