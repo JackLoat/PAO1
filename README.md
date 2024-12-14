@@ -15,3 +15,5 @@ non aggiunti: funzionalità aggiuntive
 - gestione stanze
 - esportazione dati
 - simulazione sensori difettosi
+
+test
