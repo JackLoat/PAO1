@@ -17,3 +17,4 @@ non aggiunti: funzionalità aggiuntive
 - simulazione sensori difettosi
 
 test
+test2
