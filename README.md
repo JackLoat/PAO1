@@ -16,8 +16,4 @@ non aggiunti: funzionalità aggiuntive
 - esportazione dati
 - simulazione sensori difettosi
 
-test
-test2
-test 3
-test 4
-test 5
+test 18 dicembre 17.22
